@@ -1,0 +1,16 @@
+# Local build output and editor state
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Credentials, local runtime state, and scratch files
+.env
+.env.*
+*.pem
+*.key
+*.log
+settings.json
+work/

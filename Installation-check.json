@@ -1,0 +1,21 @@
+{
+  "Version": "1.2.0.0",
+  "Running": true,
+  "Topmost": true,
+  "DoesNotStealFocus": true,
+  "ToolWindow": true,
+  "AboveTaskbar": true,
+  "TouchesTaskbar": true,
+  "Bounds": {
+    "Left": 8,
+    "Top": 507,
+    "Right": 656,
+    "Bottom": 1128
+  },
+  "WorkArea": {
+    "Left": 0,
+    "Top": 0,
+    "Right": 1920,
+    "Bottom": 1128
+  }
+}

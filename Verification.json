@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": [
+    "local mock API: independent model IDs, shared dialogue context, HTTP errors and cancellation",
+    "21 scenes shuffle without repeats; all 126 lines alternate correctly",
+    "conversation history bounded to 100 lines",
+    "API endpoint validation accepts HTTPS and local Ollama; rejects plaintext remote and embedded credentials",
+    "settings round trip and original-art / offline defaults",
+    "pause and resume controls change state correctly without persisting test preferences",
+    "window fits above taskbar in primary display work area",
+    "all 17 art pairs load and contain transparent pixels; no button bar or nameplates",
+    "both character silhouettes meet the bottom pixel row in all 17 poses, including at maximum breathing scale",
+    "long replies fit in the bubble with full text available in tooltip and speech",
+    "independent tea / speaking / listening poses; timed return to rest; fixed-art option",
+    "all 126 authored dialogue cues preserve props while listening; all 12 new action pairs are used across the 21 scenes",
+    "soup bowls -\u003E controlled experiment -\u003E bread and measurement -\u003E tasting; chosen scenes play deterministically; actions return to rest and honor fixed artwork",
+    "overlay and all three settings tabs render without errors",
+    "native topmost \u002B no-activation styles; both interactive and programmatic taskbar moves clamped; negative-coordinate and small-display bounds"
+  ]
+}

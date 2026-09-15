@@ -9,7 +9,7 @@
     <AssemblyName>FableAstra</AssemblyName>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <ApplicationIcon>companion.ico</ApplicationIcon>
-    <Version>1.2.0</Version>
+    <Version>1.2.1</Version>
     <Company>Desktop Companions</Company>
     <Description>Fable chan and Astra chan desktop companions</Description>
   </PropertyGroup>

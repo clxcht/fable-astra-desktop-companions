@@ -1,6 +1,6 @@
-# Conversation artwork — version 1.2.0
+# Conversation artwork — version 1.2.1
 
-24 new transparent sprites, generated with the built-in image tool and cleaned with code. Every one of the 126 authored offline lines carries an explicit Fable/Astra pose cue. Props stay visible while listening, then return to the selected resting artwork after the last reply. This uses bundled PNGs and needs no AI connection.
+24 action sprites, generated with the built-in image tool and cleaned with code. Version 1.2.1 removes the gray credit lettering from all display sprites. Every one of the 126 authored offline lines carries an explicit Fable/Astra pose cue. Props stay visible while listening, then return to the selected resting artwork after the last reply. This uses bundled PNGs and needs no AI connection.
 
 Right-click the tray icon → **Choose a conversation** → choose its opening line. The existing **Change poses with conversation** toggle controls the new poses too.
 

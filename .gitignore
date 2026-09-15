@@ -14,3 +14,7 @@
 *.log
 settings.json
 work/
+
+# Installer binaries are attached to GitHub Releases
+Release/
+Installer/payload.zip

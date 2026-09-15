@@ -1,15 +1,17 @@
 # Fable chan + Astra chan
 
-Private cloud backup of the working **v1.2.0** Windows desktop companion app.
+Private cloud backup of the working **v1.2.1** Windows desktop companion app.
 
-- **Restore the saved setup:** download [the v1.2.0 backup ZIP](Fable-Astra-Backup-v1.2.0-2026-09-14.zip), extract it, and run `Restore.cmd`. It includes the app, all artwork, source, preferences, and startup setting.
-- **Get the editable project:** use **Code → Download ZIP** or clone this repository. Source is in `Source/`; run `Build.ps1` to rebuild. The portable app is `FableAstra/FableAstra.exe`.
-- **Artwork:** [preview all new action sprites](Action-sprites.png) and [view the conversation cue map](Conversation-art.md).
+- **Install the app:** download the Windows ARM64 EXE from the [v1.2.1 release](https://github.com/clxcht/fable-astra-desktop-companions/releases/tag/v1.2.1). It includes the runtime, preserves preferences, and sets up the Start menu shortcut and optional automatic startup.
+- **Restore the saved setup:** download [the v1.2.1 backup ZIP](Fable-Astra-Backup-v1.2.1-2026-09-15.zip), extract it, and run `Restore.cmd`. It includes the portable app, artwork, app source, saved preferences, and startup setting.
+- **Edit or rebuild:** app source is in `Source/`; run `Build.ps1` to rebuild the portable app. Installer source and build instructions are in [Installer/](Installer/README.md).
+- **Artwork:** [all 34 clean sprites](All-poses.png), [conversation cues](Conversation-art.md), and [retouch details](Artwork-edit-prompts.md).
 
-The v1.1.1 ZIP is kept as an earlier restore point. The included build is Windows ARM64 and needs the .NET 8 Windows Desktop Runtime. API-key values are not included.
+The v1.1.1 and v1.2.0 ZIPs remain as earlier restore points. This build is for Windows ARM64. The portable app and saved setup ZIP use the installed .NET 8 Desktop Runtime; the release installer bundles it. API-key values are not included.
 
+Two anime companions with their cropped legs meeting the taskbar edge in the bottom-left corner of Windows. Version 1.2.1 removes the gray credit lettering from all display poses. It includes 24 action sprites and explicit artwork cues for all 126 offline dialogue lines. The cropped legs and breathing motion remain anchored at the taskbar edge. The desktop view contains only the girls and their speech bubbles; all controls live in their tray icon.
 
-Two anime companions with their cropped legs meeting the taskbar edge in the bottom-left corner of Windows. Version 1.2.0 adds 24 action sprites and explicit artwork cues for all 126 offline dialogue lines. The cropped legs and breathing motion remain anchored at the taskbar edge. The desktop view contains only the girls and their speech bubbles; all controls live in their tray icon.
+**Install:** download the Windows ARM64 installer from the [v1.2.1 GitHub release](https://github.com/clxcht/fable-astra-desktop-companions/releases/tag/v1.2.1) and choose **Install and launch**. It includes the .NET runtime, preserves preferences, and adds the Start menu shortcut, optional startup, and Windows uninstall entry. See `Installer/README.md` for building the installer.
 
 **Already installed on this computer:** find **Fable + Astra** in the Windows Start menu. Startup is enabled for your account. The app runs locally with written offline banter by default.
 
@@ -34,7 +36,7 @@ The companions stay above normal desktop windows without stealing keyboard focus
 
 ## Artwork
 
-The default characters come directly from your supplied image. The source is bundled byte-for-byte as `FableAstra/Assets/original.png`. The cutouts have transparent outer backgrounds and enclosed gaps, with white contamination removed from their edges and smooth partial transparency along the contours. Interior colors are preserved. The drawing's existing artist credit is **@thatlev**.
+The default characters come directly from your supplied image. The source is bundled byte-for-byte as `FableAstra/Assets/original.png`. The cutouts have transparent outer backgrounds and enclosed gaps, with white contamination removed from their edges and smooth partial transparency along the contours. Interior colors are preserved. Artist attribution is retained in **CREDITS.md**. The display sprites have been locally retouched to remove the gray credit lettering; see `Artwork-edit-prompts.md` for the exact edit prompts and `Artwork-verification.json` for the image checks.
 
 There are now **17 pose pairs / 34 transparent character sprites**. Alongside original, classic, happy, tea and talking, 12 new pairs cover soup, an experiment, baking, snacks, books, notes, space, gardening, games, blankets, cats, and a duck/dragon adventure. These additional drawings were made with the built-in image generator, then their backgrounds and edge contamination were removed with code. The five resting choices remain in the tray; action props appear automatically during authored offline scenes. See `Conversation-art.md` for every dialogue cue and `Artwork-prompts.md` for the exact prompt set. Live AI retains its existing general talking, smiling and tea poses.
 

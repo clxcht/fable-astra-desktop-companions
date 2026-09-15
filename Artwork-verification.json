@@ -1,0 +1,392 @@
+{
+  "retouched": 32,
+  "already_clean": 2,
+  "checks": [
+    {
+      "sprite": "adventure-fable.png",
+      "changed_pixels": 2839,
+      "edit_box": [
+        275,
+        552,
+        365,
+        587
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "adventure-astra.png",
+      "changed_pixels": 2722,
+      "edit_box": [
+        260,
+        575,
+        351,
+        608
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "bake-fable.png",
+      "changed_pixels": 2335,
+      "edit_box": [
+        288,
+        570,
+        372,
+        601
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "bake-astra.png",
+      "changed_pixels": 2471,
+      "edit_box": [
+        234,
+        567,
+        323,
+        598
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "blanket-fable.png",
+      "changed_pixels": 6087,
+      "edit_box": [
+        246,
+        536,
+        360,
+        594
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "blanket-astra.png",
+      "changed_pixels": 6167,
+      "edit_box": [
+        229,
+        540,
+        343,
+        598
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "book-fable.png",
+      "changed_pixels": 3090,
+      "edit_box": [
+        283,
+        587,
+        371,
+        625
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "book-astra.png",
+      "changed_pixels": 3203,
+      "edit_box": [
+        243,
+        566,
+        335,
+        604
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "cat-fable.png",
+      "changed_pixels": 2873,
+      "edit_box": [
+        298,
+        475,
+        384,
+        512
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "cat-astra.png",
+      "changed_pixels": 3240,
+      "edit_box": [
+        267,
+        494,
+        358,
+        533
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "drink-fable.png",
+      "changed_pixels": 3447,
+      "edit_box": [
+        257,
+        529,
+        354,
+        568
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "drink-astra.png",
+      "changed_pixels": 3177,
+      "edit_box": [
+        221,
+        545,
+        316,
+        582
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "experiment-fable.png",
+      "changed_pixels": 3059,
+      "edit_box": [
+        265,
+        545,
+        361,
+        581
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "experiment-astra.png",
+      "changed_pixels": 3039,
+      "edit_box": [
+        239,
+        556,
+        336,
+        591
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "game-fable.png",
+      "changed_pixels": 3133,
+      "edit_box": [
+        254,
+        537,
+        351,
+        574
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "game-astra.png",
+      "changed_pixels": 2969,
+      "edit_box": [
+        236,
+        548,
+        329,
+        584
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "garden-fable.png",
+      "changed_pixels": 3665,
+      "edit_box": [
+        274,
+        544,
+        366,
+        587
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "garden-astra.png",
+      "changed_pixels": 3008,
+      "edit_box": [
+        199,
+        571,
+        293,
+        606
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "happy-fable.png",
+      "changed_pixels": 3332,
+      "edit_box": [
+        308,
+        546,
+        407,
+        583
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "happy-astra.png",
+      "changed_pixels": 4402,
+      "edit_box": [
+        194,
+        529,
+        315,
+        569
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "notes-fable.png",
+      "changed_pixels": 3583,
+      "edit_box": [
+        202,
+        563,
+        300,
+        603
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "notes-astra.png",
+      "changed_pixels": 2757,
+      "edit_box": [
+        224,
+        563,
+        314,
+        597
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "original-fable.png",
+      "changed_pixels": 843,
+      "edit_box": [
+        99,
+        215,
+        148,
+        235
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "original-astra.png",
+      "changed_pixels": 1241,
+      "edit_box": [
+        72,
+        277,
+        128,
+        302
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "snack-fable.png",
+      "changed_pixels": 3012,
+      "edit_box": [
+        261,
+        555,
+        356,
+        590
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "snack-astra.png",
+      "changed_pixels": 3050,
+      "edit_box": [
+        236,
+        558,
+        329,
+        594
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "soup-fable.png",
+      "changed_pixels": 2384,
+      "edit_box": [
+        256,
+        565,
+        348,
+        594
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "soup-astra.png",
+      "changed_pixels": 2487,
+      "edit_box": [
+        230,
+        570,
+        322,
+        600
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "space-fable.png",
+      "changed_pixels": 3033,
+      "edit_box": [
+        260,
+        536,
+        354,
+        572
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "space-astra.png",
+      "changed_pixels": 2856,
+      "edit_box": [
+        207,
+        508,
+        301,
+        542
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "talk-fable.png",
+      "changed_pixels": 3844,
+      "edit_box": [
+        275,
+        507,
+        370,
+        551
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    },
+    {
+      "sprite": "talk-astra.png",
+      "changed_pixels": 3293,
+      "edit_box": [
+        338,
+        538,
+        433,
+        576
+      ],
+      "alpha_preserved": true,
+      "all_other_pixels_preserved": true
+    }
+  ],
+  "visual_review": "All 32 retouched areas reviewed at enlarged scale; both classic sprites were already clear.",
+  "version": "1.2.1"
+}

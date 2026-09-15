@@ -1,0 +1,14 @@
+{
+  "Version": "1.2.1",
+  "Architecture": "win-arm64",
+  "EmbeddedFilesVerified": 498,
+  "UpgradeCompleted": true,
+  "PreferencesPreserved": true,
+  "StartupPreserved": true,
+  "SelfContainedRuntime": true,
+  "StartMenuShortcutVerified": true,
+  "WindowsUninstallRegistered": true,
+  "InstalledAppSelfTestPassed": true,
+  "InstallerSha256": "f81e8a2c8a283e2d93dbe5c639ccb5ae6e24c4255d9b83b5841d096f4867a5c0",
+  "VerifiedAt": "2026-09-15T13:41:00.1991018+02:00"
+}
